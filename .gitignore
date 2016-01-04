@@ -2,3 +2,9 @@
 /*.egg-info
 /build/
 /dist/
+
+debian/*.debhelper
+debian/*.debhelper.log
+debian/*.substvars
+debian/files
+debian/python-spadl/*
