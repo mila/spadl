@@ -1,3 +1,9 @@
+python-spadl (0.3-1) unstable; urgency=medium
+
+  * Loosen python-dbglog dependency for Python 2.
+
+ -- Miloslav Pojman <mila@preinstall.go.seznam.cz>  Mon, 14 Mar 2016 16:34:46 +0100
+
 python-spadl (0.3) unstable; urgency=low
 
   * Python 3 support.

@@ -14,7 +14,7 @@ X-Python3-Version: >= 3.4
 
 Package: python-spadl
 Architecture: all
-Depends: ${misc:Depends}, ${python:Depends}, python-dbglog (>=1.8.0)
+Depends: ${misc:Depends}, ${python:Depends}, python-dbglog (>=1.7.6)
 Description: Sane Python adapter to DbgLog
  This package provides a standard logging handler which writes
  log records to DbgLog.
