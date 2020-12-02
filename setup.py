@@ -3,7 +3,7 @@
 import sys
 from setuptools import setup
 
-VERSION = (0, 3)
+VERSION = (0, 4)
 VERSION_STR = ".".join(map(str, VERSION))
 
 
