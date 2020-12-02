@@ -2,6 +2,8 @@
 SPADL - Sane Python adapter to DbgLog
 =====================================
 
+**This project is archived. It is no longer updated or maintained.**
+
 This package provides a standard logging handler which writes log
 records to `DbgLog`_.
 
